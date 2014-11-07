@@ -6,6 +6,8 @@
 <text>== Introduction ==
 Scratch est un langage de programmation pictographique qui propose un environnement de développement complet, intégré et facile d'accès. L'intérêt d'un tel langage est de libérer le programmeur des soucis de syntaxe puisqu'il suffit de glisser/déposer des petites icônes pour créer des séquences programmées.
 
+L'environnement Scratch, à l'instar de son &lt;i&gt;ancêtre&lt;/i&gt; le logo est avant tout destiné aux enfants dès huit ans (il faut savoir lire). Son utilisation se justifie par contre jusqu'au niveau universitaire pour démontrer des concepts d'algorithmique et de programmation. Il existe tout une communauté d'enseignant active dans l'utilisation pédagogique de Scratch ([http://scratched.media.mit.edu/resources/all]).
+
 Dans cette brève introduction, nous vous proposons de découvrir la programmation pictographique et Scratch en partant d'un petit programme simple que vous pourrez modifiez de manière assez libre et créative.
 
 == Mise en place ==
