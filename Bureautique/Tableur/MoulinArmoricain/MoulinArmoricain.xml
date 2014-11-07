@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<learning_plan>
+<items>
+<item>
+<title>01.01 Tableur | Moulin Armoricain (1/3)</title>
+<text>==01.01 Tableur | Moulin Armoricain (1/3)==
+
+
+===Mise en situation===
+
+Vous travaillez pour la société "Moulin Armoricain" spécialisée
+dans la production et la vente de farine de blé noir.
+Le directeur vous demande de lui préparer un bilan pour l’année 2011.
+
+Pour résoudre cette tâche de façon efficace, vous devez :
+* Mettre en page des données brutes
+* Utiliser les fonctions de base (somme, moyenne, minimum, maximum)
+* Utiliser les fonctions de formatage automatique
+
+
+
+===Mise en place===
+
+# Récupérez le fichier initial (i)
+# Enregistrez le document dans '''Mes Documents''' sous : Nom Prénom_moulin.xls	(ex. Jones Tom_moulin.xls)
+
+
+
+===Consignes===
+
+ À la fin du travail, déposer son document dans son Portfolio (sans le convertir !).
+
+
+Complétez et mettez en page de façon profesionnelle le document fourni selon les indications suivantes :
+
+
+====Mise en page====
+
+Ajoutez un '''titre''' approprié.
+
+Les '''constantes''' suivantes doivent être ajoutées à la feuille et utilisées dans les formules :
+* '''Prix de vente''' : 3.– CHF/kg
+* '''TVA''' : 8.0 %
+* '''Report du stock 2010''' : 10 kg
+
+
+====Formules====
+
+Les cellules contenant des "xxxx" seront remplacées par les formules appropriées.
+
+&lt;table&gt;
+
+&lt;tr&gt;
+&lt;th&gt;Excédent de production&lt;/th&gt;
+&lt;td&gt;Se calcule par la '''différence''' entre la production et la vente.&lt;br/&gt;
+Utilisez une '''couleur''' pour marquer les mois où l’excédent est &lt;1 ou &gt;5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th&gt;quantité en stock&lt;/th&gt;
+&lt;td&gt;janvier :	utilisez le '''report du stock 2010''' et '''l’excédent'''.&lt;br/&gt;
+février :	utilisez le stock du mois de janvier et l’excédent.&lt;br/&gt;
+mars :	utilisez le stock du mois de février… ; etc.&lt;br/&gt;
+Utilisez une '''couleur''' pour marquer les mois où le stock est &lt;5.&lt;br/&gt;
+Utilisez une '''autre couleur''' pour les mois où le stock est &gt;15.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th&gt;chiffre affaires HT&lt;/th&gt;
+&lt;td&gt;Prendre en compte le prix de vente et les ventes du mois. Format approprié (CHF).&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th&gt;chiffre affaires TTC&lt;/th&gt;
+&lt;td&gt;Prendre en compte le CA HT et la TVA dans un format adéquat.&lt;br/&gt;
+Utilisez une couleur pour marquer les mois où le CA TTC &lt;475.&lt;br/&gt;
+Utilisez une autre couleur pour marquer les mois où il est &gt;475.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+
+Ajoutez au-dessous de cette table et calculez pour chaque colonne :
+la '''somme''' et les valeurs '''moyenne''', '''minimale''' et '''maximale'''.
+Formatez le tableau de façon adéquate.
+
+
+
+===Ressources===
+
+'''(i) Table brute : ''' [http://educanet2.ch/infobureautique/1M/tableur/01_moulin-armoricain.xls]
+
+
+
+===Aides===
+
+ '''Menu « Aide » du logiciel'''</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>01.02 Tableur | Moulin Armoricain (2/3)</title>
+<text>==01.02 Tableur | Moulin Armoricain (2/3)==
+
+
+===Mise en situation===
+
+Satisfait par votre première version, le directeur du "Moulin Armoricain"
+vous demande de mettre en avant un certains nombre d’indicateurs utiles
+pour sa prise des décision.
+Il a également observé que vous aviez omis les en-têtes et pieds de page.
+
+Pour résoudre cette tâche de façon efficace, vous devez :
+* Ajouter un graphique
+* Utiliser avec précision la fonction "arrondi au multiple"
+* Utiliser adroitement la fonction "nombre si"
+* Obtenir une mise en page professionnelle
+
+
+
+
+===Consignes===
+
+ À la fin du travail, déposer son document dans son Portfolio (sans le convertir !).
+
+====Chiffre d’affaires TTC====
+
+Modifiez le format des cellules de la colonne "chiffre d’affaire TTC"
+pour que les montants soient arrondis aux 5 centimes
+en vous aidant de la fonction "arrondi au multiple".
+
+
+====Graphique====
+
+Ajoutez à la feuille '''un graphique''' mettant en regard sous la forme de barres 3D
+la production et la vente de farine de blé en fonction du mois de l’année.
+
+Définissez le titre, les étiquettes des axes, etc. La '''légende des courbes'''
+doit apparaître en haut du graphique.
+
+
+====Indicateurs====
+
+Ajoutez sous le graphique nouvellement créé '''trois indicateurs''' de suivi de production.
+Vous vous aiderez de la fonction "nombre si".
+
+* le nombre de mois où les ventes ont été '''plus importantes''' que la production.
+* le nombre de mois où la production a été '''excédentaire''' de plus de 5 kg.
+* le nombre de mois où l’excédent a été '''plus petit''' ou égal à 0.
+
+
+====Mise en page====
+
+Procédez à la mise en page du document de sorte à ce qu’il s’imprime sur une seule et unique page A4 portrait.
+
+Indiquez à gauche de '''l’en-tête''' vos '''nom et prénom'''.
+
+Dans le '''pied de page''', vous ferez apparaître à gauche le '''nom du fichier''' et à droite, la '''date du jour'''.</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>01.03 Tableur | Moulin Armoricain (3/3)</title>
+<text>==01.03 Tableur | Moulin Armoricain (3/3)==
+
+
+===Mise en situation===
+
+"Moulin Armoricain" est si performante qu’un grand groupe Français
+envisage d’investir dans l’entreprise !
+Le directeur souhaiterait modifier le bilan 2011
+pour y voir apparaître des montants en Euros.
+
+Pour faciliter la mise à jour du document,
+il vous demande de déplacer les trois constantes déjà définies
+dans une deuxième feuille du classeur,
+et d’y ajouter le taux de change CHF-EUR.
+Cela permettra également d’améliorer l’impact du document.
+
+Pour résoudre cette tâche de façon efficace, vous devez :
+* Ajouter une feuille au classeur
+* Déplacer les constantes dans la nouvelle feuille
+* Renommer les feuilles de façon adéquate
+* Vérifier que toutes les formules sont toujours correctes après le déplacement
+* Ajouter une colonne pour le chiffre d’affaires TTC en Euros avec somme, moyenne, ...
+
+
+===Consignes===
+
+ À la fin du travail, déposer son document dans son Portfolio (sans le convertir !).
+
+====Constantes====
+
+Ajoutez une nouvelle feuille au classeur pour y réunir l’ensemble des constantes
+actuel­lement disposées au sommet de la feuille principale.
+
+Ajoutez une nouvelle constante :	'''taux de change''' : 0,83 EUR/CHF
+
+
+====Chiffre d’affaires TTC (Euros)====
+
+Ajoutez une nouvelle colonne au tableau pour y disposer le chiffre d’affaires TTC en Euros.
+
+Utilisez le taux de conversion CHF–EUR nouvellement ajouté aux constantes
+pour '''convertir les montants''' en CHF de la colonne "chiffre d’affaires TTC" en Euros
+au moyen d’une formule. Aidez-vous pour cela d’une adresse absolue.
+
+Modifiez le format des cellules de la nouvelle colonne "chiffre d’affaires TTC" pour que la devise soit '''EUR'''.
+
+Modifiez le formatage conditionnel pour que '''deux couleurs différentes'''
+distinguent les mois où le chiffre d’affaires est &lt;320 de ceux où il est &gt;320 Euros,
+respec­tivement.</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>02.01 Tableur | Compléments</title>
+<text>==Tableur | Compléments==
+
+
+
+===Mise en place===
+
+# Récupérez le fichier initial (i)
+# Enregistrez le document dans '''Mes Documents''' sous : Nom Prénom_complements.xls	(ex. Smith Will_complements.xls)
+
+
+
+===Consignes===
+
+ À la fin du travail, déposer son document dans son Portfolio (sans le convertir !).
+
+
+
+====Formules====
+
+Les cellules contenant des "xxxx" seront remplacées par les formules appropriées.
+
+
+
+
+===Ressources===
+
+'''(i) Table brute : ''' [http://educanet2.ch/infobureautique/1M/tableur/02_complements.xls]</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>02.02 Tableur | Fonctions NB.* et SOMME.*</title>
+<text>==02.02 Tableur | Fonctions NB.* et SOMME.*==
+
+===Mise en place===
+
+# Récupérer le fichier initial (i).
+# Enregistrer le document dans '''Mes Documents''' sous : Nom Prénom_nb-somme.xls	(ex. Mortenson Viggo_nb-somme.xls).
+
+
+
+===Consignes===
+
+Compléter les cellules jaunes en utilisant les formules adaptées.
+
+À la fin du travail, déposer son document dans son Portfolio (sans le convertir !).
+
+
+
+
+
+===Ressources===
+
+'''(i) Table brute : ''' [http://educanet2.ch/infobureautique/1M/tableur/02_nb-somme.xls]</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>03.01 Tableur | Votations fédérales</title>
+<text>==03.01 Tableur | Votations==
+
+
+
+===Mise en situation===
+
+Vous avez été engagé récemment à l’Office Fédéral de la Statistique, à Neuchâtel.
+Vous êtes affecté à un projet de construction d’indicateurs sur les profils cantonaux
+décrivant les votes populaires fédéraux.
+
+Votre supérieure vous demande de mettre en place un fichier Excel qui lui permettra
+de visualiser rapidement les principaux chiffres en lien avec ces votations.
+Elle vous demande de commencer par mettre en page les résultats
+d’une votation de septembre 2004 sur les naturalisations (i).
+
+Pour résoudre cette tâche de façon efficace, il faut :
+* Mettre en page des données brutes.
+* Utiliser les fonctions de base (somme, moyenne, minimum, maximum).
+* Utiliser les fonctions de formatage automatique.
+* Utiliser les fonctions « arrondi au multiple » et « nombre si ».
+* Utiliser le blocage des volets et la protection des données.
+
+
+
+
+===Mise en place===
+
+# Récupérer le fichier initial (ii).
+# Enregistrer le document dans '''Mes Documents''' sous : Nom Prénom_votations.xls	(ex. Poelvoorde Benoit_votations.xls).
+
+
+
+===Consignes===
+
+====Mise en forme====
+
+Compléter et mettre en page selon des critères professionnels les données brutes (ii),
+en s'inspirant du modèle (iii) et en respectant les indications suivantes :
+
+* Ajouter un titre approprié au sommet de la page.
+* Utiliser le blocage des volets.
+* Vérifier tous les critères professionnels de mise en page.
+
+
+Ajouter les constantes suivantes et les utiliser dans les formules :
+* seuil de participation basse : 50%
+* seuil de participation haute : 60%
+
+Formater les cellules contenant des pourcentages en conséquence.
+
+Arrondir les valeurs des minima, maxima et moyennes aux centaines afin de simplifier la lecture.
+
+
+
+====Indicateurs====
+
+Les modifications de la constitution nécessitent la double majorité du peuple et des cantons.
+Pour permettre une lecture rapide des résultats des votations,
+ajouter sous la table principale les deux cartouches « peuple » et « cantons ».
+
+Les pourcentages de oui et de non du cartouche « peuple » se calculent sur l’ensemble des votes.
+Lorsque le nombre de oui est plus grand que le nombre de non,
+le pourcentage de OUI est mis en évidence de façon efficace.
+Lorsque c’est le nombre de NON qui est plus grand que le nombre de oui,
+alors c’est le pourcentage de NON qui est mis en évidence automatiquement.
+
+Le nombre de cantons ayant voté en faveur ou contre l’objet seront calculés automatiquement
+au moyen des formules adéquates.
+De façon analogue au cartouche « peuple », lorsque le nombre de cantons ayant voté
+en faveur de l’objet est majoritaire, ce nombre sera mis en évidence.
+Dans le cas contraire, c’est le nombre de canton ayant voté contre l’objet
+qui sera mis en évidence.
+
+La vérification du résultat par le lecteur doit être instantanée !
+
+
+
+
+
+====Validation des données====
+
+Utiliser une cellule avec validation des données (format liste)
+permettant à votre supérieure de viser le document après consultation.
+La liste doit proposer les entrées suivantes :
+-	pour validation
+-	lu et approuvé
+-	nécessite des corrections
+-	refusé
+
+
+
+
+
+====Protection====
+
+Utiliser la protection des cellules de sorte à ce que seules les valeurs
+des seuils et le champ de validation puissent être modifiés.
+
+
+
+
+===Dépôt===
+
+À la fin du travail, déposer son document dans son Portfolio (sans le convertir !).
+
+
+
+
+
+
+===Ressources===
+
+'''(i) Source : ''' [http://www.bfs.admin.ch/bfs/portal/fr/index/themen/17/03/blank/key/2004/03.html] (site visité le 13 janvier 2013)
+
+'''(ii) Table brute : ''' [http://educanet2.ch/infobureautique/1M/tableur/03_votations.xls]
+
+'''(iii) Modèle : ''' [http://educanet2.ch/infobureautique/1M/tableur/03_modele.pdf]</text>
+<option_flags>257</option_flags>
+</item>
+</items>
+</learning_plan>
