@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<learning_plan>
+<items>
+<item>
+<title>1-Tableur | Ressources Vidéo</title>
+<text>==Tableur | Ressources Vidéo==
+
+===Objectif===
+
+* Découvrir le fonctionnement et l'utilisation des podcasts.
+* Découvrir l'utilisation et les notions de base du tableur MS Excel.
+
+===Mise en place===
+&lt;i&gt;La marche à suivre ci-dessous propose l'utilisation de iTunes. Vous pouvez choisir un autre lecteur de podcast si vous le souhaitez &lt;/i&gt;
+# Connectez-vous sur le podcast du [http://www.scolcast.ch/podcast/196/337 | cours].
+# Identifiez-vous au moyen des informations suivantes:
+   nom d'utilisateur: gymorges-eleve
+   mot de passe: gymorges
+
+# Abonnez-vous dans iTunes (pictogramme plus jaune en bas à droite)
+# Visualisez les épisodes dans iTunes, dans l'ordre.
+
+=== Rappel ===
+Un avantage des ressources vidéo se situe dans la possibilité de faire pause, de revenir en arrière et de revoir un passage à tout moment. Profitez donc de tester les marches à suivre qui vous sont proposées dans les vidéo du cours.</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>2-Tableur | Introduction</title>
+<text>==Tableur | Introduction==
+
+===Objectif===
+
+* Prendre connaissance du projet à réaliser dans MS Excel.
+* Découvrir l'utilisation et les notions de base du tableur MS Excel.
+
+===Durée===
+La réalisation de cette fiche devrait prendre 20 à 30 minutes.
+
+=== Marche à suivre===
+
+# Lire &lt;b&gt;attentivement tout&lt;/b&gt; le document &lt;i&gt;People.net-Presentation&lt;/i&gt; qui se trouve dans le classeur dans le dossier MS Excel.
+# Ouvrir le document &lt;i&gt;People.net-DocumentExemple&lt;/i&gt; qui se trouve également dans le classeur.
+# Analyser ce dernier document et sur une copie papier (à imprimer) tracer les dépendances. Exemple: les coûts d'installation dépendent du mobilier (compter environ 10 minutes).
+
+&lt;b&gt;Conserver ce document pour toute la réalisation de ce projet.&lt;/b&gt;
+
+Une fois la fiche terminée, cocher la case ci-dessous et passer à la fiche suivante.</text>
+<option_flags>257</option_flags>
+</item>
+<item>
+<title>3-Tableur | Etape 1</title>
+<text>==Tableur | Étape 1==
+
+===Objectif===
+
+* Réaliser un premier tableau document dans Excel et remplir quelques cellules.
+
+===Durée===
+La réalisation de cette fiche devrait prendre de 30 à 40 minutes maximum
+
+=== Marche à suivre===
+
+# Prendre connaissance des 2 premières vidéos du podcast pour réaliser les deux points suivants.
+# Réaliser le tableau &lt;i&gt;coûts d'installation&lt;/i&gt;, sans le calcul de la somme. Mettre une valeur manuellement pour cette cellule.
+# Réaliser le tableau &lt;i&gt;constantes&lt;/i&gt;, avec toutes les valeurs en fixes.
+# Prendre connaissance de la vidéo 3 du podcast (formule 1).
+# Corriger le tableau des constantes en mettant cette fois comme valeur pour les coûts d'installation une référence à la cellule qui contient la somme  (toujours calculée manuellement) dans le tableau des coûts d'installation.
+# Prendre connaissance de la vidéo 4 du podcast (formule 2).
+# Remplacer la somme dans le tableau des coûts d'installation par un calcul utilisant la fonction SOMME()
+# Améliorer la mise en page du document pour le rendre plus lisible.
+
+===Validation et rendu===
+# Valider le document en changeant la valeur du mobilier et vérifier que les deux tableaux se mettent à jour correctement.
+# Une fois le document terminé et validé (pour les points ci-dessus),  déposer le fichier réalisé ET marquer cette fiche comme terminée.</text>
+<option_flags>261</option_flags>
+</item>
+<item>
+<title>4-Tableur | Etape 2</title>
+<text>==Tableur | Étape 2==
+
+===Durée===
+La réalisation de cette fiche devrait prendre de 30 à 40 minutes maximum.
+
+===Marche à suivre===
+
+# Prendre connaissance de la dernière vidéo.
+# Terminer le document avec tous les éléments numériques.
+# Reprendre la mise en page pour obtenir un document le plus similaire possible à celui proposé en exemple.
+
+===Validation et rendu===
+Comme pour la fiche précédent: valider le document en modifiant des valeurs et en vérifiant que toutes les informations et calculs restent justes.
+Une fois la fiche terminée, déposer le document et signaler la fiche comme terminée.</text>
+<option_flags>261</option_flags>
+</item>
+</items>
+</learning_plan>
