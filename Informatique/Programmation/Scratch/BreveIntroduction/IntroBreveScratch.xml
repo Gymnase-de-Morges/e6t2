@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<learning_plan>
+<items>
+<item>
+<title>Brève introduction à la programmation avec Scratch</title>
+<text>== Introduction ==
+Scratch est un langage de programmation pictographique qui propose un environnement de développement complet, intégré et facile d'accès. L'intérêt d'un tel langage est de libérer le programmeur des soucis de syntaxe puisqu'il suffit de glisser/déposer des petites icônes pour créer des séquences programmées.
+
+Dans cette brève introduction, nous vous proposons de découvrir la programmation pictographique et Scratch en partant d'un petit programme simple que vous pourrez modifiez de manière assez libre et créative.
+
+== Mise en place ==
+Pour accéder à Scratch, connectez-vous au site: [http://scratch.mit.edu] et inscrivez-vous sur le site (lien "rejoindre scratch" en haut à droite).
+Vous pour pouvez créer un premier projet en cliquant sur le lien "créer" (en haut à gauche).
+
+== Marche à suivre ==
+# Premiers pas
+## Faire se déplacer le lutin qui se trouve à l'écran
+## Essayer d'utiliser des boucles (répéter indéfiniment, répéter n fois, etc.)
+## Essayer l'aide de Scratch ([http://scratch.mit.edu/help/]), notamment l'introduction étape par étape (tutoriel guidé).
+
+# Un premier jeu
+## Ouvrir le projet suivant: [http://scratch.mit.edu/projects/18179064/]
+## Cliquer sur "voire à l'intérieur" (en haut à droite), puis "remixer". Ceci devrait créer une copie du projet dans votre espace personnel
+## Vous pouvez maintenant le modifier, l'améliorer à votre guise
+### Changer le décors, les éléments graphiques
+### Changer la vitesse de défilement, la gravité
+### Ajouter de nouveaux éléments de jeu (des badges, des bonus, des niveaux, etc.)
+## Une fois votre projet terminé, vous pouvez le publier.</text>
+<option_flags>257</option_flags>
+</item>
+</items>
+</learning_plan>
